@@ -14,6 +14,9 @@ He currently heads the **Theseus project** as it's lead engineer and architect, 
 
 A passionate mentor and advocate for data engineering excellence, Ron has a proven track record of designing unified analytics ecosystems and helping teams adopt modern tools and methodologies. At the DATA+AI Summit, he shares his expertise in building scalable, maintainable, and future-ready data platforms.
 
+At the DATA+AI Summit, he shared his expertise in building scalable, maintainable, and future-ready data platforms.  
+🎤 **Watch my talk:** [Building Scalable Data Platforms with Medallion Architecture (YouTube)](https://www.youtube.com/watch?v=EuR2LPrHLZE)
+
 ---
 
 ## 🛠️ Core Skills
