@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ron DeFreitas
+# Ron DeFreitas
 
 **Principal Data Engineer / Architect at HealthVerity**
 
